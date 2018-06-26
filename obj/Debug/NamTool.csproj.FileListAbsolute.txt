@@ -1,0 +1,7 @@
+c:\users\enam004\Source\Repos\NamTool\NamTool\bin\Debug\NamTool.exe.config
+c:\users\enam004\Source\Repos\NamTool\NamTool\bin\Debug\NamTool.exe
+c:\users\enam004\Source\Repos\NamTool\NamTool\bin\Debug\NamTool.pdb
+c:\users\enam004\Source\Repos\NamTool\NamTool\obj\Debug\NamTool.csprojResolveAssemblyReference.cache
+c:\users\enam004\Source\Repos\NamTool\NamTool\obj\Debug\NamTool.csproj.CoreCompileInputs.cache
+c:\users\enam004\Source\Repos\NamTool\NamTool\obj\Debug\NamTool.exe
+c:\users\enam004\Source\Repos\NamTool\NamTool\obj\Debug\NamTool.pdb
